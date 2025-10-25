@@ -6,7 +6,7 @@ This project automates website testing using **Python** and **Selenium WebDriver
 - Automated functional testing
 - Page Object Model (POM) structure
 - PyTest-based test execution
-- HTML test reports and screenshots on failure
+- writing test cases
 
 ## 🧰 Tech Stack
 - **Language:** Python  
